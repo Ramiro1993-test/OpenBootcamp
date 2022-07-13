@@ -9,3 +9,5 @@ def hora():
   elif hactual < hora:
      hfalta = hactual - hora
      return f'Faltan {hfalta} para terminar la jornada'
+
+  
